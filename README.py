@@ -1,4 +1,3 @@
-
 #CSci 127 Teaching Staff
 #November 16th, 2024
 #A program that summarizes images, like koalastothemax
